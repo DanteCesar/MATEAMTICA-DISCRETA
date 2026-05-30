@@ -82,7 +82,124 @@ c) Interprete
 
 ---
 
-### 🔹 Optimización
+# ✅ Banco de Preguntas: Producto Triple Escalar
 
-11. Sean  
-$$\vec{A}=(1,2,t)$$, $$\vec{B}=(
+Recordatorio:
+$$[A,B,C]=A\cdot(B\times C)$$
+
+---
+
+### **Pregunta 1**
+Dados los vectores:
+$$A=(1,2,3),\quad B=(0,1,1),\quad C=(2,1,0)$$  
+Calcule:
+$$A\cdot(B\times C)$$
+
+---
+
+### **Pregunta 2**
+Dados:
+$$A=(-1,2,0),\quad B=(3,1,-2),\quad C=(2,0,1)$$  
+
+a) Calcule el determinante asociado  
+b) Interprete el resultado obtenido  
+
+---
+
+### **Pregunta 3**
+Dados los vectores:
+$$A=(2,0,1),\quad B=(1,3,-1),\quad C=(0,2,2)$$  
+
+Determine:
+$$[A,B,C]$$
+
+---
+
+### **Pregunta 4**
+Dados:
+$$A=(1,0,2),\quad B=(2,-1,1),\quad C=(3,1,-1)$$  
+
+a) Calcule:
+$$A\cdot(B\times C)$$  
+
+b) Determine el volumen del paralelepípedo.
+
+---
+
+### **Pregunta 5**
+Sean:
+$$A=(1,2,1),\quad B=(0,a,2),\quad C=(3,1,a)$$  
+
+Determine el valor de $a$ para que los vectores sean coplanares:
+$$[A,B,C]=0$$
+
+---
+
+### **Pregunta 6**
+Sean:
+$$A=(2,1,3),\quad B=(1,-1,2),\quad C=(0,2,1)$$  
+
+Verifique si:
+$$A\cdot(B\times C)=B\cdot(C\times A)$$  
+
+Explique el resultado.
+
+---
+
+### **Pregunta 7**
+Dados:
+$$A=(1,1,1),\quad B=(2,3,4),\quad C=(3,5,7)$$  
+
+a) Calcule:
+$$[A,B,C]$$  
+
+b) Determine si los vectores son linealmente dependientes.
+
+---
+
+### **Pregunta 8**
+Sea:
+$$A=(1,0,1),\quad B=(0,1,1),\quad C=(1,1,\lambda)$$  
+
+Determine $\lambda$ tal que:
+$$|[A,B,C]|=2$$
+
+---
+
+### **Pregunta 9**
+Tres vectores:
+$$A=(2,-1,3),\quad B=(1,2,-2),\quad C=(3,0,1)$$  
+
+a) Calcule el volumen del paralelepípedo:
+$$V=|A\cdot(B\times C)|$$  
+
+b) Determine el volumen del tetraedro.
+
+---
+
+### **Pregunta 10**
+Demuestre que:
+$$A\cdot(B\times C)=0$$  
+si y solo si los vectores son coplanares.
+
+---
+
+### **Pregunta 11**
+Sean:
+$$A=(a,1,2),\quad B=(2,a,1),\quad C=(1,2,a)$$  
+
+a) Calcule:
+$$[A,B,C]$$  
+
+b) Determine los valores de $a$ para coplanaridad.
+
+---
+
+### **Pregunta 12 (Aplicación Ingeniería)**
+Tres fuerzas:
+$$F_1=(2,1,-1),\quad F_2=(1,-2,3),\quad F_3=(3,0,2)$$  
+
+a) Calcule:
+$$F_1\cdot(F_2\times F_3)$$  
+
+b) Interprete el resultado en términos geométricos.
